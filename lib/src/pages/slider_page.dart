@@ -38,7 +38,7 @@ Widget _crearSlider(){
     value: _valorSlider,
     min: 10.0,
     max: 400.0,
-    onChanged: (valor){
+    onChanged: (_bloquearCheck)? null : (valor){
       setState((){
         _valorSlider = valor;
       });

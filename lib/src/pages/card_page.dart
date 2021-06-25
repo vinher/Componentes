@@ -32,7 +32,7 @@ Widget _cardTipoSimple(){
         ListTile(
           leading: Icon(Icons.photo_album, color:Colors.green.shade600),
           title:Text('Titulo de Tarjeta'),
-          subtitle: Text('Este es el subtitulo de Flutter para aprender y mejorar y tener un mejor trabajo como programador en dart y flutter'),
+          subtitle: Text('Subtitulo'),
         ),
         Row(
           mainAxisAlignment: MainAxisAlignment.end,
