@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 "# Componentes" 
 
 #No olvides ejecutar los siguientes comandos para su funcionamiento correcto
-1.- flutter pub get
-2.- flutter pub upgrade
-3.- Ejecuta la App
+- flutter pub get
+- flutter pub upgrade
+- Ejecuta la App
